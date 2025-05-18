@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "unaimade",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5b42ba87-7fdb-4b93-9246-3cba8d652bd8",
+      "database_name": "odd-night-8efb-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
